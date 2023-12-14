@@ -1,0 +1,1 @@
+Small repository to gather the solutions to the 2023 Advent Code challenge.
