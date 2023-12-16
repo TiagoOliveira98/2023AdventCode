@@ -10,21 +10,14 @@ for line in lines:
     last = 0
     aux = []
     while last < len(line):
-        #print(init)
-        #print(last)
         for i in spellNumbers:            
             if i in line[init:last+1]:
-                #print(i)
                 if i not in ["1","2","3","4","5","6","7","8","9"]:
                     init = last
                 else:
                     init = last + 1 
                 aux.append(spellNumbers[i])
         last += 1
-        #print(aux)
     sum += aux[0]*10 + aux[-1]
     all.append(sum)
-    print(sum)
-
-print(len(all))
-print 
+print(sum) 
