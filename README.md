@@ -14,4 +14,5 @@ Small repository to gather the solutions to the 2023 Advent Code challenge.
 <p>Part 2 - :x:
 
 <h2>Day 4</h2>
-<p>Part 1 - :x:
+<p>Part 1 - DONE :white_check_mark:
+<p>Part 2 - :x:
