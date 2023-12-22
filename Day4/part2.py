@@ -1,0 +1,1 @@
+# The idea would be create a vector with all game points and number of correct numbers. After that run a algorithm to add the number of point as said in the problem.
